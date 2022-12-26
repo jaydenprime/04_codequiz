@@ -29,7 +29,7 @@ THEN I can save my initials and my score
 ```
 ## Link to deployed application
 
-
+https://jaydenprime.github.io/04_codequiz/
 
 ## Screenshot
 ![Quiz Screenshot](./04-quiz.PNG)
